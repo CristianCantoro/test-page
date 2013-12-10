@@ -1,0 +1,3 @@
+[submodule "dataschool/leaflet-plugins"]
+	path = dataschool/leaflet-plugins
+	url = https://github.com/shramov/leaflet-plugins
